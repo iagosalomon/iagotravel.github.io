@@ -64,11 +64,6 @@ footer {
     padding-top: 1px;
   }
 
-  .flexBox ul li {
-    align-items: center;
-    text-align: center;
-  }
-
   .container .flexBox {
     align-items: center;
     text-align: center;
@@ -82,4 +77,6 @@ footer {
     flex-direction: row;
     min-height: 50vh;
     gap: 40px;
+    margin: 0; 
+    padding: 0;
   }
